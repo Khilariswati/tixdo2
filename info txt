@@ -2,4 +2,6 @@ git -init
 git status
 git add .
 git status
-git diff -difference between working ang staging
+git diff -difference between working and staging
+git log
+git show HEAD
