@@ -5,3 +5,6 @@ git status
 git diff -difference between working and staging
 git log
 git show HEAD
+git checkout HEAD filename------>working as last commit
+git checkout reset filename----->staging same as last commit
+git reset 7sh
